@@ -32,7 +32,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Patrick Moffett"
 description              : "Patrick's personal development blog, and portfolio"
-url                      : Moffett.Dev # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/default-title.jpg  # path of fallback teaser image
@@ -124,7 +124,6 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Aspiring Game Programmer, working primarily in Unreal Engine"
   location         : "Los Angeles, CA"
-  email            : "Patrick@Moffett.Dev"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
