@@ -35,7 +35,7 @@ description              : "Patrick's personal development blog, and portfolio"
 url                      : Moffett.Dev # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/Default-Title.jpg # path of fallback teaser image
+teaser                   : /assets/images/default-title.jpg  # path of fallback teaser image
 logo                     : # path of logo image to display in the masthead
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
