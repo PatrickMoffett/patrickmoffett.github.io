@@ -1,0 +1,11 @@
+main:
+  - title: "Blog"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "Music"
+    url: /music/
+  - title: "Art"
+    url: /art/
+  - title: "About"
+    url: /about/

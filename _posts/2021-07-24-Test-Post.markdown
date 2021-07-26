@@ -1,8 +1,11 @@
 ---
-layout: post
-title:  "First Post!"
-date:   2021-07-24 14:49:22 -0700
-categories: Test
+title: "Test Post"
+excerpt_separator: "<!--more-->"
+excerpt: "A post to test my websites layout."
+categories:
+  - Post
+
+
 ---
 Welcome!
 
