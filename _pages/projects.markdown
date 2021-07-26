@@ -8,5 +8,5 @@ classes: wide
 ---
 
 
-Hey! I'll put some info about my projects here soon. Thanks for checking it out though.
-
+Hey! I'll put some info about my projects here soon. Thanks for stopping by.
+<hr class="solid">
