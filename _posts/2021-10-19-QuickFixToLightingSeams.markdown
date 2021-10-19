@@ -37,6 +37,7 @@ While you could make/use higher quality assets, or generate and edit your own li
 Go into your levels world settings, and change the Static Lighting Level Scale from 1.0 to .1
 
 This won't completely eliminate the seams, but it should make them much less obvious.
+![NoLightingSeams](/assets/images/NoLightingSeams.png)
 
 It will take more time to generate the lighting, but the results are generally worth the wait.
-![NoLightingSeams](/assets/images/NoLightingSeams.png)
+![NoLightingSeams](/assets/images/LightingSeamsComparison.png)
