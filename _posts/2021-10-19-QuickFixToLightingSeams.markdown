@@ -1,5 +1,5 @@
 ---
-title: "Quick Fix To Lighting Seams in UE4"
+title: "Quick Fix For Lighting Seams in UE4"
 excerpt_separator: "<!--more-->"
 excerpt: "A quick fix to (mostly) eliminate those pesky lighting seams."
 
@@ -9,7 +9,7 @@ categories:
   - Lightmap
   - UE4
 header:
-  teaser: "assets/images/LightingSeams.png"
+  teaser: "/assets/images/LightingSeams.png"
 
 ---
 Lighting Seams can be a problem anytime you have two static meshes side by side, such as flooring or walls, like you can see in the image below.
