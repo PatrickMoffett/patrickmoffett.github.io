@@ -125,15 +125,16 @@ author:
   bio              : "Aspiring Game Programmer, working primarily in Unreal Engine"
   location         : "Los Angeles, CA"
   links:
-    - label: "Email"
+    - label: "Patrick@Moffett.Dev"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:Patrick@Moffett.Dev"
+    - label: "Patrick_GameDev"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Patrick_GameDev"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/PatrickMoffett"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Patrick_GameDev"
+
 
 # Site Footer
 

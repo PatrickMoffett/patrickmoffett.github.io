@@ -1,5 +1,5 @@
 ---
-title: "Quick Fix For Lighting Seams in UE4"
+title: "Quick Fix For Lighting Seams In UE4"
 excerpt_separator: "<!--more-->"
 excerpt: "A quick fix to (mostly) eliminate those pesky lighting seams."
 
