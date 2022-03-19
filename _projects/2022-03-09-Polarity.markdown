@@ -1,0 +1,62 @@
+---
+title: "Polarity"
+excerpt_separator: "<!--more-->"
+excerpt: "A game about bringing elements together."
+classes: wide
+categories:
+  - Project
+  - Gamejam
+  - GlobalGameJam
+header:
+  teaser: "/assets/images/polarity.png"
+  overlay_image: /assets/images/polarity_overlay.png
+
+---
+
+<h2>Summary</h2>
+<h3>Team & Tools</h3>
+<p>
+Polarity is a game that was made in 48 hours for the 2022 Global Game Jam. It was written in C# and Unity. Our team was made up of 3 people; Josh Komie, David Erick Ramos, and myself.
+</p>
+<h3>Gameplay</h3>
+<p>
+During the game you control two orbs which move in inverted directions, and exist on inverted elements on the map. The goal of the game is to move the orbs together while avoiding all of the dangers.
+</p>
+<h3>Links</h3>
+[Play Now On Itch.io](https://patrickmoffett.itch.io/polarity)
+<br>
+[Source Code On Github](https://github.com/PatrickMoffett/Polarity)
+
+<h2>My Responsibilities</h2>
+
+<h3>Programming</h3> 
+<p>
+I handled all the programming for the game. It was my first time creating a game in Unity, and I learned a lot about it.
+</p>
+<p><b>
+Key Programming Elements:
+</b></p>
+<ul>
+<li><b>Input Handling:</b> Setting up input for the player and inverting the inputs for the second controlled orb.</li>
+<li><b>Music and UI:</b> Setup singletons to allow seamless transitions for the UI and music between scenes.</li>
+<li><b>Coroutines</b>: Setup Coroutines to fade scene elements in and out to ease transitions.</li>
+<li><b>Physics</b>: Setup Physics for the players orbs, and all effects the orb experienced as part of gameplay.</li>
+<li><b>GameState</b>: Setup a game state that would manage the state of the game and check if the player had won.</li>
+</ul>
+<h3>Level Design</h3>
+<p>
+I designed the first 6 levels of the game. We utilized Unity's Tilemaps to create the levels. I tried to allow the levels to slowly introduce the mechanics to the player before increasing in difficulty.
+</p>
+
+<h2>Future Plans</h2>
+<p>
+I hope to return to this project and add some finishing touches that we didn't have time for during the jam, such as:
+</p>
+<ul>
+<li>2 more fire and ice levels</li>
+<li>3 levels where you return to the black and white zone, with mechanics from all previous levels</li>
+<li>Recolor the joining animations to be appropriate for each zone</li>
+</ul>
+
+<h2>Gameplay Video</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zk-_H9FHqfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

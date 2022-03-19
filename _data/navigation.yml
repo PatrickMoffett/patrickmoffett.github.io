@@ -1,11 +1,11 @@
 main:
-  - title: "Blog"
+  - title: "Resume"
     url: /
   - title: "Projects"
     url: /projects/
-  - title: "Music"
-    url: /music/
-  - title: "Art"
-    url: /art/
-  - title: "About"
-    url: /about/
+#  - title: "Blog"
+#    url: /blog/
+#  - title: "Music"
+#    url: /music/
+#  - title: "Art"
+#    url: /art/

@@ -5,8 +5,10 @@ permalink: /projects/
 collection: projects
 entries_layout: grid
 classes: wide
+header:
+  overlay_image: /assets/images/default-title-nologo.jpg
 ---
 
 
-Hey! I'll put some info about my projects here soon. Thanks for stopping by.
+Welcome! Below are some of my projects.
 <hr class="solid">
