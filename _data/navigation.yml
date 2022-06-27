@@ -1,7 +1,11 @@
 main:
-  - title: "Resume"
+  - title: "Home"
     url: /
-  - title: "Projects"
+  - title: "Resume"
+    url: /assets/pdf/Patrick-Moffett-Resume.pdf
+  - title: "Itch.io"
+    url: https://itch.io/c/2525122/patrick-moffetts-game-credits
+  - title: "Project Descriptions"
     url: /projects/
 #  - title: "Blog"
 #    url: /blog/
